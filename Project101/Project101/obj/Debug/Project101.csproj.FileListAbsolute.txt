@@ -1,0 +1,24 @@
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Documents\SharpDevelop Projects\Project101\Project101\bin\Debug\Project101.exe.config
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Documents\SharpDevelop Projects\Project101\Project101\bin\Debug\Project101.exe
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Documents\SharpDevelop Projects\Project101\Project101\bin\Debug\Project101.pdb
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Documents\SharpDevelop Projects\Project101\Project101\obj\Debug\Project101.csprojResolveAssemblyReference.cache
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Documents\SharpDevelop Projects\Project101\Project101\obj\Debug\Project101.csproj.GenerateResource.Cache
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Documents\SharpDevelop Projects\Project101\Project101\obj\Debug\Project101.exe
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Documents\SharpDevelop Projects\Project101\Project101\obj\Debug\Project101.pdb
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Documents\SharpDevelop Projects\Project101\Project101\obj\Debug\Project101.Home.resources
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Documents\SharpDevelop Projects\Project101\Project101\obj\Debug\Project101.loyalty.resources
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Documents\SharpDevelop Projects\Project101\Project101\obj\Debug\Project101.transaction.resources
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Documents\SharpDevelop Projects\Project101\Project101\obj\Debug\Project101.products.resources
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Documents\SharpDevelop Projects\Project101\Project101\obj\Debug\Project101.Data.resources
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Desktop\WMAD2_InventorySystem\Project101\Project101\bin\Debug\Project101.exe.config
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Desktop\WMAD2_InventorySystem\Project101\Project101\bin\Debug\Project101.exe
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Desktop\WMAD2_InventorySystem\Project101\Project101\bin\Debug\Project101.pdb
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Desktop\WMAD2_InventorySystem\Project101\Project101\obj\Debug\Project101.csprojResolveAssemblyReference.cache
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Desktop\WMAD2_InventorySystem\Project101\Project101\obj\Debug\Project101.Data.resources
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Desktop\WMAD2_InventorySystem\Project101\Project101\obj\Debug\Project101.loyalty.resources
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Desktop\WMAD2_InventorySystem\Project101\Project101\obj\Debug\Project101.transaction.resources
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Desktop\WMAD2_InventorySystem\Project101\Project101\obj\Debug\Project101.Home.resources
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Desktop\WMAD2_InventorySystem\Project101\Project101\obj\Debug\Project101.products.resources
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Desktop\WMAD2_InventorySystem\Project101\Project101\obj\Debug\Project101.csproj.GenerateResource.Cache
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Desktop\WMAD2_InventorySystem\Project101\Project101\obj\Debug\Project101.exe
+C:\Users\Lorna\Dropbox\My PC (marjo2823)\Desktop\WMAD2_InventorySystem\Project101\Project101\obj\Debug\Project101.pdb
